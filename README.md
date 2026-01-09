@@ -28,7 +28,7 @@
 
 ## Tech stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,sql,flutter,dart,flask,sqlite,mysql,git,github,vscode,idea&perline=9" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css,flutter,dart,flask,sqlite,mysql,git,github,vscode,idea&perline=8" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 - TMDb API integration (trending/top-rated/latest + multi-category search with pagination/filters).
 - Auth + persistence via password hashing (Werkzeug) and SQLite/SQLAlchemy (User + Watchlist), plus pytest automated tests.
 
-### 🏋️ FitTrack (Flutter/Dart)
+### 🏋️ FitTrack (Flutter)
 - Flutter fitness tracker with bottom-tab navigation (Home/Food/Train/Log/Settings) and live theme switching.
 - Offline-first persistence with sqflite (users/foods/exercises/records) + custom dashboard visualizations using CustomPainter.
 - Open Food Facts search + exercise logging + unified activity feed + scheduled meal reminders.
