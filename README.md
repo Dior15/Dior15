@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:22c55e&height=210&section=header&text=Khristian%20Diorico&fontSize=52&fontAlignY=35&desc=Computer%20Science%20%7C%20Software%20Engineer%20%7C%20Ontario%20Tech%20University&descAlignY=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:22c55e&height=210&section=header&text=Khristian%20Diorico&fontSize=52&fontFamily=Impact&fontAlignY=35&desc=Computer%20Science%20%7C%20Software%20Engineer%20%7C%20Ontario%20Tech%20University&descAlignY=60" alt="header" />
 </p>
 
 <!-- Social / Contact -->
@@ -34,22 +34,40 @@ I build full-stack applications and networked systems — from real-time multipl
 
 **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,dart" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,dart,vue,nodejs" />
 </p>
 
 **Frameworks & Libraries**
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,flask,html,css" />
+  <img src="https://skillicons.dev/icons?i=flutter,flask,express,vite,html,css,firebase" />
 </p>
 
 **Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,firebase,git,github,vscode,idea" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🎵 [Tunely.fm](https://github.com/Dior15/Tunely.fm) &nbsp;`Vue` `Node.js` `Express` `JavaScript`
+> **Music streaming web app with a full client/server architecture and listening analytics**
+
+- Built a **Vue 3 frontend** with reactive song browsing, player state management, and dynamic UI transitions across album/player/stats views.
+- Developed an **Express API** to serve music metadata, stream song files, and track play counts / listen durations with persistent local JSON-backed storage.
+- Integrated **D3-based statistics** and REST-style data fetching to deliver a polished music experience with real-time playback behavior.
+
+---
+
+### 📚 [BookBasket](https://github.com/Dior15/BookBasket) &nbsp;`Flutter` `Dart` `Firebase` `OpenStreetMaps`
+> **Digital library app for discovering, borrowing, and sharing books**
+
+- Built a **cross-platform Flutter** reading platform with catalog browsing, borrowed book management, reading features, and social library interactions.
+- Integrated **Firebase** for app data management and location-aware reading map functionality, creating a richer community-driven experience.
+- Designed features for **friend connections, reading progress tracking, and admin controls** to support both user and library-management workflows.
+
+---
 
 ### 🧩 [Multiplayer Minesweeper](https://github.com/OntarioTech-CS-program/w25-csci2020u-finalproject-w25-team30) &nbsp;`Java` `TCP Sockets` `Swing`
 > **Real-time multiplayer game engine built from scratch over raw TCP sockets**
